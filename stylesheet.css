@@ -1,0 +1,8 @@
+html,body {
+    height:99%;
+}
+
+body {
+    background:#000000 url('dapple2.jpg') no-repeat center center; 
+    overflow: hidden;
+}
